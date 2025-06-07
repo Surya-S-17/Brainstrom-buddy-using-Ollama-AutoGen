@@ -46,7 +46,7 @@ graph TD
 3. **Clone and Run the Project**
 
    ```bash
-   git clone https://github.com/your-username/brainstorm-buddy.git
+   git clone https://github.com/Surya-S-17/Brainstrom-buddy-using-Ollama-AutoGen.git
    cd brainstorm-buddy
    python app.py
    ```
